@@ -4,7 +4,7 @@ def main():
 
 
 def print_from_number_to_one(number):
-    for i in range(number, 0):
+    for i in range(number, 0,-1):
         print(i)
 
 
